@@ -1,5 +1,9 @@
 # BD1_VF
 
+### Tecnologia utilizadas
+- dbdiagram.io (para os diagramas)
+- MySlq (modelo fisico)
+
 Para criar um banco de dados relacional com as especificações fornecidas, vamos seguir os seguintes passos:
 
 1. **Modelagem Conceitual**: Definimos as entidades e seus relacionamentos.
