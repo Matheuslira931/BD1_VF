@@ -3,6 +3,16 @@
 ### Tecnologia utilizadas
 - dbdiagram.io (para os diagramas)
 - MySlq (modelo fisico)
+- DataGrio
+
+### Diagramas
+modelagem conceitual:
+https://dbdiagram.io/d/modelagem-conceitual-674dd743e9daa85aca640d04
+
+Modelagem logica:
+https://dbdiagram.io/d/Modelagem-logica-674dd758e9daa85aca640f90
+
+___________
 
 Para criar um banco de dados relacional com as especificações fornecidas, vamos seguir os seguintes passos:
 
